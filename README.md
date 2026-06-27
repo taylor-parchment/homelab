@@ -34,3 +34,5 @@ Currently installed services:
 - Set up Immich for hosting our own photos.
 - Look into my network settings and consider the advantages to an open source router software like Opensense.
 - Set up a secure method of accessing network services from the Internet. Leaning towards TailScale.
+
+## Skills
