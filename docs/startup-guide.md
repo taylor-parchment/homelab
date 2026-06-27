@@ -23,7 +23,7 @@ From here, I did all configuring on my main Windows laptop via SSH. From Powersh
 ssh <username>@<server-ip>
 ```
 
-![[screenshots/SSH-from-windows 2.png]]
+![ssh from Windows](screenshots/SSH-from-windows.png)
 
 ## Samba
 
